@@ -18,15 +18,15 @@ A simple conversational chatbot built using **LangChain**, **Ollama**, and **Str
 
 ---
 
-## 🖥️ Demo
+##  Demo
 
-![Demo Screenshot](![image](https://github.com/user-attachments/assets/205cc1b7-9fbc-4b1b-85e7-69a6c94bee73)
-)  
+![image](https://github.com/user-attachments/assets/b8533adc-9843-42e3-bde2-62b7acaf0ba2)
+
 
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 
